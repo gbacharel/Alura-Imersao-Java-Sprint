@@ -9,8 +9,8 @@
 
 ## :hammer: Funcionalidades do projeto
 
-- `Aula 1`: CONSUMINDO UMA API DE FILMES COM JAVA:  
-O projeto consume a API de filmes do IMDB e retorna as informações do Nome do Filme, poster e sua nota
+- <a href="https://github.com/gbacharel/Alura-Imersao-Java-Sprint/tree/master/finalizadas/aula1" `Aula 1`>: 
+CONSUMINDO UMA API DE FILMES COM JAVA: O projeto consume a API de filmes do IMDB e retorna as informações do Nome do Filme, poster e sua nota
 
 - `Aula 2`: GERANDO FIGURINHAS PARA WHATSAPP: 
 A partir do consumo da API, o sistema efetua a criação de figurinhas para WhatsApp 
@@ -21,8 +21,13 @@ Refatoração do codigo para o consumo de mais de uma API para criação das Fig
 - `Aula 4`: CRIANDO NOSSA PRÓPRIA API COM SPRING:
 Criamos a partir do Spring uma API que consome dados do MongoDB para a utilização do criador de figurinhas 
 
-
-
+## :computer: Tecnologias Utilizadas no Projeto
+-  `Java`
+-  `Spring`
+-  `MongoDB`
+-  `OO`
+-  `CRUD`
+-  `HTTP`  
 
 
 
