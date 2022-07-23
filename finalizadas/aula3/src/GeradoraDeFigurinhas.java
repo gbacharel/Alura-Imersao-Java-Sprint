@@ -28,12 +28,12 @@ public class GeradoraDeFigurinhas {
         graphics.drawImage(imagemOriginal, 0, 0,null);
 
         //confugrar a fonte 
-        var fonte = new Font(Font.SANS_SERIF, Font.BOLD, 64);
-        graphics.setColor(Color.RED);
-        graphics.setFont(fonte);
+        //var fonte = new Font(Font.SANS_SERIF, Font.BOLD, 64);
+        //graphics.setColor(Color.RED);
+        //graphics.setFont(fonte);
 
         // escrever uma frase na nova imagem 
-        graphics.drawString("Imersão Alura", 135, novaAltura - 100);
+        //graphics.drawString("Imersão Alura", 135, novaAltura - 100);
 
         // escrever a nova imagem em um arquivo 
         ImageIO.write(novaImagem, "png", new File(nomeArquivo));
