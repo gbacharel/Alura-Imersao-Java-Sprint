@@ -1,7 +1,5 @@
 <h1 align="center"> Projeto Imersão Alura </h1>
 
-<h2 align="center"> Indice </h2>
-
 ## :bangbang: Status do Projeto
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
