@@ -24,13 +24,13 @@ Criamos a partir do Spring uma API que consome dados do MongoDB para a utilizaç
 <a href="https://github.com/gbacharel/Alura-Imersao-Java-Sprint/tree/master/finalizadas/aula4">Link do Projeto</a>
 
 
-## :hammer: Abrir e rodar o projeto 
+## :computer: Abrir e rodar o projeto 
 Após baixar o projeto, voce pode abrir no VScode com as extensões de Java baixadas e Maven de preferencia 
 
 - `open the folder` no Vscode e abra o arquivo descompactado
-- `MongoDb` abra uma conta no MongoDb e link o banco no arquivo application.properties
+- `MongoDb` abra uma conta no MongoDb e coloque o link de conexão no arquivo application.properties
 
-## :computer: Tecnologias Utilizadas no Projeto
+## :hotsprings: Tecnologias Utilizadas no Projeto
 -  `Java`
 -  `Spring`
 -  `MongoDB`
