@@ -23,13 +23,17 @@ Refatoração do codigo para o consumo de mais de uma API para criação das Fig
 Criamos a partir do Spring uma API que consome dados do MongoDB para a utilização do criador de figurinhas 
 <a href="https://github.com/gbacharel/Alura-Imersao-Java-Sprint/tree/master/finalizadas/aula4">Link do Projeto</a>
 
+
+## :hammer: Abrir e rodar o projeto 
+Após baixar o projeto, voce pode abrir no VScode com as extensões de Java baixadas e Maven de preferencia 
+
+- `open the folder` no Vscode e abra o arquivo descompactado
+- `MongoDb` abra uma conta no MongoDb e link o banco no arquivo application.properties
+
 ## :computer: Tecnologias Utilizadas no Projeto
 -  `Java`
 -  `Spring`
 -  `MongoDB`
--  `OO`
--  `CRUD`
--  `HTTP`  
 
 
 
