@@ -12,7 +12,7 @@ public class Aula2 {
     public static void main(String[] args) throws Exception {
         
         // fazer uma conexão https e buscar os top 250 filmes 
-        String url = "https://alura-imdb-api.herokuapp.com/movies";
+        String url = "https://mocki.io/v1/9a7c1ca9-29b4-4eb3-8306-1adb9d159060";
         URI endereço = URI.create(url);
         var client = HttpClient.newHttpClient();
         var request = HttpRequest.newBuilder(endereço).GET().build();
@@ -36,7 +36,7 @@ public class Aula2 {
                String titulo = filme.get("title");
                
                InputStream inputStream = new URL (urlImagem).openStream();
-               String nomeArquivo = "../ALURA-STICKERS/finalizadas/aula2/saida2/" + titulo + ".png";
+               String nomeArquivo = "../ALURA-STICKERS/projetos/aula2/saida2/" + titulo + ".png";
 
                geradora.cria(inputStream, nomeArquivo);
 
