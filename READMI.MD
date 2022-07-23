@@ -9,7 +9,8 @@
 
 ## :hammer: Funcionalidades do projeto
 
-- <a href="https://github.com/gbacharel/Alura-Imersao-Java-Sprint/tree/master/finalizadas/aula1" `Aula 1`>: 
+- <a href="https://github.com/gbacharel/Alura-Imersao-Java-Sprint/tree/master/finalizadas/aula1">
+`Aula 1`</a>: 
 CONSUMINDO UMA API DE FILMES COM JAVA: O projeto consume a API de filmes do IMDB e retorna as informações do Nome do Filme, poster e sua nota
 
 - `Aula 2`: GERANDO FIGURINHAS PARA WHATSAPP: 
